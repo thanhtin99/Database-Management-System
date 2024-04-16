@@ -1,0 +1,21 @@
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\bin\Debug\DTO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\bin\Debug\DTO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\bin\Debug\DTO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\obj\Debug\DTO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DTO\obj\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\bin\Debug\DTO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\bin\Debug\DTO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\obj\Debug\DTO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DTO\obj\Debug\DTO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\bin\Debug\DTO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\bin\Debug\DTO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\bin\Debug\DTO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\obj\Debug\DTO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DTO\obj\Debug\DTO.pdb

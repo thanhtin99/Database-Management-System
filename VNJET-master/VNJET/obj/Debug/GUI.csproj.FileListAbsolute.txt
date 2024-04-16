@@ -1,0 +1,101 @@
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\VNJET.exe.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\VNJET.exe
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\VNJET.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmLogin.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.Properties.Resources.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.exe
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmMain.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyNhanVien.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\BUS.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DAO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\BUS.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\BUS.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DAO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DAO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\GUI.csproj.CopyComplete
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyKhachHang.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyMayBay.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLySanBay.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyTuyenBay.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyHangVe.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyDonGia.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmQuanLyChuyenBay.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmBanVe.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmTinhTrangVe.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmTraCuu.resources
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DTO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DTO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\bin\Debug\DTO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\VNJET\obj\Debug\VNJET.frmBaoCao.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmBanVe.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmBaoCao.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmLogin.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmMain.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyChuyenBay.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyDonGia.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyHangVe.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyKhachHang.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyMayBay.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyNhanVien.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLySanBay.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyTuyenBay.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmTinhTrangVe.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.frmTraCuu.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.Properties.Resources.resources
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.exe
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\VNJET.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\VNJET.exe.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\VNJET.exe
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\VNJET.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\BUS.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DAO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DTO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\BUS.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\BUS.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DAO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DAO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\bin\Debug\DTO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\VNJET\obj\Debug\GUI.csproj.CopyComplete
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\VNJET.exe.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\VNJET.exe
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\VNJET.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\BUS.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DAO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DTO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\BUS.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\BUS.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DAO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DAO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DTO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\bin\Debug\DTO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\GUI.csproj.AssemblyReference.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmBanVe.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmBaoCao.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmLogin.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmMain.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyChuyenBay.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyDonGia.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyHangVe.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyKhachHang.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyMayBay.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyNhanVien.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLySanBay.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmQuanLyTuyenBay.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmTinhTrangVe.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.frmTraCuu.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.Properties.Resources.resources
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\GUI.csproj.GenerateResource.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\GUI.csproj.CopyComplete
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.exe
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\VNJET\obj\Debug\VNJET.pdb

@@ -1,0 +1,42 @@
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\BUS.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\BUS.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\BUS.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DAO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DAO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DAO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\obj\Debug\BUS.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\obj\Debug\BUS.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DTO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DTO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\BUS\bin\Debug\DTO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\BUS.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\BUS.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\BUS.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DAO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DTO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DAO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DAO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\bin\Debug\DTO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\obj\Debug\BUS.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\BUS\obj\Debug\BUS.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\BUS.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\BUS.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\BUS.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DAO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DTO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DAO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DAO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DTO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\bin\Debug\DTO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\obj\Debug\BUS.csproj.CopyComplete
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\obj\Debug\BUS.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\BUS\obj\Debug\BUS.pdb

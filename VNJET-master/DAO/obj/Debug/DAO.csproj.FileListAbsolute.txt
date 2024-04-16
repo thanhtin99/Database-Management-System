@@ -1,0 +1,33 @@
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DAO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DAO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DAO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\obj\Debug\DAO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\obj\Debug\DAO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DTO.dll
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DTO.pdb
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\bin\Debug\DTO.dll.config
+E:\University\2022-2023\HK1\DBMS\Project\VNJET\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\obj\Debug\DAO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\obj\Debug\DAO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DAO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DAO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DAO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DTO.dll
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DTO.pdb
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\bin\Debug\DTO.dll.config
+C:\Users\DANG XUAN BACH\Downloads\VNJET-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DAO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DAO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DAO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DTO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DTO.pdb
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\bin\Debug\DTO.dll.config
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\obj\Debug\DAO.dll
+X:\2023-24\Nam_4_HK1\he_quan_tri\VNJET-master\DAO\obj\Debug\DAO.pdb
