@@ -45,9 +45,13 @@ Quản lý nhân viên:
   ![image](https://github.com/thanhtin99/Database-Management-System/assets/95009162/6a2bab65-d88e-4723-8d4c-7aa5d00b1b9f)
   ## 3. Thiết kế các chức năng
   1.View
-  2.Stored Procedure  
+  
+  2.Stored Procedure 
+  
   3.Function
+  
   4.Transaction
+  
   5.Tạo user và phân quyền
   ## 4. Giao diện
 1.	Đăng nhập
