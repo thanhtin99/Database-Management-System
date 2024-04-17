@@ -43,8 +43,13 @@ Quản lý nhân viên:
 -	Tìm kiếm: Quản lý có khả năng tìm kiếm thông tin về nhân viên để quản lý và cập nhật. 
   ## 2.	Diagram
   ![image](https://github.com/thanhtin99/Database-Management-System/assets/95009162/6a2bab65-d88e-4723-8d4c-7aa5d00b1b9f)
-
-  ## 3. Giao diện
+  ## 3. Thiết kế các chức năng
+  1.View
+  2.Stored Procedure  
+  3.Function
+  4.Transaction
+  5.Tạo user và phân quyền
+  ## 4. Giao diện
 1.	Đăng nhập
  ![image](https://github.com/thanhtin99/Database-Management-System/assets/95009162/dc152104-7aeb-4179-9051-06a54ba0fdf4)
 
